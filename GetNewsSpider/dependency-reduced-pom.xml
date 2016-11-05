@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <parent>
+    <artifactId>spider_parent</artifactId>
+    <groupId>org.epiclouds</groupId>
+    <version>1.0</version>
+    <relativePath>../spider_parent/pom.xml</relativePath>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>GetNewsSpider</artifactId>
+  <name>GetNewsSpider</name>
+  <description>GetNewsSpider的爬虫</description>
+</project>
+
